@@ -1,0 +1,14 @@
+.search_result_a{
+    color: #000000;
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+    width: fit-content;
+}
+.search_result{
+    margin-top: 30px;
+}
+.search_result_p{
+    line-height: 30px;
+}
